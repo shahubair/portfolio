@@ -6,7 +6,7 @@ import { GraduationCap, Cpu, MapPin, Calendar, Star, Award } from "lucide-react"
 
 const timeline = [
   {
-    year: "2019–2021",
+    year: "2022-2023",
     title: "12th Grade",
     subtitle: "Excellence in Science",
     icon: Star,
